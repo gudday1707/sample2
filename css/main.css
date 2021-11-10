@@ -1,0 +1,22 @@
+/* Custom Properties */
+:root {
+  --leading: 2em;
+}
+
+body {
+  background: linear-gradient(to left, #2b3590, aqua);
+  
+}
+
+img.logo {
+  display: flex;
+  width: 10%;
+  filter: drop-shadow(8px 8px 15px #2b3590);
+  margin-top: 10em;
+}
+
+img.suvadivemap {
+  width: 10%;
+  display: absolute;
+  margin-left: 120em;
+}
